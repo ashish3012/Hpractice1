@@ -19,6 +19,7 @@ public class Main {
         System.out.println("Hello");
         System.out.println("this is the new line");
         System.out.println("this is edited line");
+        System.out.println("new");
     }
     
 }
