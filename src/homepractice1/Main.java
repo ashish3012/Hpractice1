@@ -18,7 +18,7 @@ public class Main {
         // TODO code application logic here
         System.out.println("Hello");
         System.out.println("this is the new line");
-        System.out.println("again new second line");
+        System.out.println("this is edited line");
     }
     
 }
